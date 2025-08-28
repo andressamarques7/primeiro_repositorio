@@ -1,4 +1,4 @@
-<h1 align="center">✨ OIOI, eu sou a Andressa ✨</h1>
+<h1 align=>✨ OIOI, eu sou a Andressa ✨</h1>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNoZzVlcm5jd2o3dXpwNDNwaGkydGM3MDJhejczeXp5aWduYThiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="gif legal" width="320">
