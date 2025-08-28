@@ -32,9 +32,7 @@
 ---
 
 ## 🎵 Músicas recentes tocadas:
-
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31pzjx6gzamaqnezec4l3yl7hrxa)](https://open.spotify.com/user/31pzjx6gzamaqnezec4l3yl7hrxa)
-
+[![Spotify Playlist](https://img.shields.io/badge/Spotify_Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/16L2tJXrNr6n8c0pXmsS2N)
 
 
 ---
@@ -45,6 +43,10 @@
     <p style="font-size: 18px; font-style: italic; margin-bottom: 20px;">
       “Às vezes, o que parece loucura é só a verdade sendo dita.” ⚡💥
     </p>
+       <p style="font-size: 18px; font-style: italic; margin-bottom: 20px;">
+      MADDY PEREZ 
+    </p>
+
 
 
   <div style="max-width: 25%;">
