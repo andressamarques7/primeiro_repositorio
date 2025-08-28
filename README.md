@@ -12,7 +12,7 @@
 
 🖌️ Estou aprendendo **Inglês**
 
-🚀 Meu objetivo é evoluir cada vez mais, praticando, criando projetos e colaborando com a comunidade. 
+🚀 Meu objetivo é evoluir cada vez mais. 
  
 ---
 
