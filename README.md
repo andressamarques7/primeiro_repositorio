@@ -6,7 +6,7 @@
 
 ---
 
-🎓 Tenho **16 anos** e atualmente sou estudante apaixonada por tecnologia e programação.
+🎓 Tenho **16 anos** e atualmente sou estudante de tecnologia e programação.
 
 💻 Estou aprendendo **Linguagens de Programação – Python** e pretendo ingressar na área. 
 
